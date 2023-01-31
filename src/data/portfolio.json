@@ -31,13 +31,13 @@
             "url": "https://free-code-camp-projects-react-mexw.vercel.app/"
         },
         {
-            "cover": "/portfolio/images/six.png",
+            "cover": "/portfolio/images/six.PNG",
             "title": "Calculadora APP",
             "description": "React, Css",
             "url": "https://calculadora-react-eosin.vercel.app/"
         },
         {
-            "cover": "/portfolio/images/seven.png",
+            "cover": "/portfolio/images/seven.PNG",
             "title": "Contador de clics APP",
             "description": "React, Css",
             "url": "https://contador-clics-react.vercel.app/"
