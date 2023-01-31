@@ -14,11 +14,11 @@
         img {
             display: block;
             margin: 8px auto;
-            width: 40px;
+            width: 24px;
             height: auto;
 
             &.sub-logo {
-                width: 55px;
+                width: 50px;
             }
         }
     }
@@ -93,12 +93,6 @@
         a.portfolio-link {
             &:after {
                 content: 'PORTFOLIO';
-            }
-        }
-
-        a.active {
-            svg {
-                color: #ffd700;
             }
         }
     }
@@ -176,9 +170,6 @@
                 margin-left: 10PX;
             }
 
-            a svg {
-                opacity: 1 !important;
-            }
         }
 
         .hamburger-icon,
